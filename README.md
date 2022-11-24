@@ -1,2 +1,4 @@
-# dynamic-time-wrapping-web-app
-A minimal web app for computing dtw distance of time series datasets.
+# Dynamic Time Wrapping Web App
+This web app is intended to work on small datasets for computing dtw distance of time series data.
+
+Project Outline:
