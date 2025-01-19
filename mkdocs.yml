@@ -1,0 +1,17 @@
+site_name: About Me
+site_description: bio portfolio
+docs_dir: bio-portfolio
+site_url: "https://andreas3333.github.io/andreas-schaler/"
+site_dir: public
+dev_addr: "127.0.0.1:8000"
+
+theme:
+  name: material
+  favicon: overrides/assets/images/favicon-32x32.png
+  custom_dir: bio-portfolio/overrides
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list

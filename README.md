@@ -1,4 +1,4 @@
-# Dynamic Time Wrapping Web App
-This web app is intended to work on small datasets for computing dtw distance of time series data.
+# README
 
-Project Outline:
+This repository repository is a personal biography and portfolio project for hosting the content
+via Github Pages.
