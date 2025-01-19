@@ -19,7 +19,6 @@ packaging==24.2
 paginate==0.5.7
 pathspec==0.12.1
 platformdirs==4.3.6
-pycairo==1.27.0
 pycparser==2.22
 Pygments==2.19.1
 PyGObject==3.50.0

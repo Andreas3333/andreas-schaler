@@ -10,4 +10,4 @@ I am a practicing mid level software engineer with experience in application, cl
 
 ### Connect
 
-Linked In: https://www.linkedin.com/in/andreas-schaler-ab38b5201/
+<a href="https://www.linkedin.com/in/andreas-schaler-ab38b5201/">Linked In</a>
