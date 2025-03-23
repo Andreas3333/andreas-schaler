@@ -1,13 +1,18 @@
+---
+hide:
+  - toc
+---
+
 # Andreas Schaler
-
-Welcome, thank you for checking out my page.
-
-<a href="AndreasSchaler_Resume.pdf" >Resume</a>
 
 ### About me
 
-I am a practicing mid level software engineer with experience in application, cloud, ml and devops development.
+I am a practicing mid level software engineer with experience in application, cloud, LLM and devops development.
 
-### Connect
+<a href="AndreasSchaler_Resume.pdf" >Resume</a>
 
-<a href="https://www.linkedin.com/in/andreas-schaler-ab38b5201/">Linked In</a>
+### Connect with me here
+
+<a href="https://www.linkedin.com/in/andreas-schaler-ab38b5201/">LinkedIn</a>
+
+e-mail: andreas.schaler.cs@gmail.com

@@ -107,11 +107,11 @@ dist
 *.DS_Store
 
 # developer
-*/dev
-
-# todo
-*todo*
-*TODO*
+*dev/
 
 # public/
 public/
+
+# todo
+todo*
+TODO*
