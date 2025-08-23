@@ -33,8 +33,12 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - name: Install python reqs
-        run: pip install -r requirements.txt
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+      - name: Install project python version
+        run: uv python install
+      - name: Install dependencies
+        run: uv pip install --system --group docs
       - name: MkDocs Build
         run: mkdocs build
       - name: Publish gh-pages
