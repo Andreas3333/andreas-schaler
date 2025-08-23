@@ -103,6 +103,10 @@ dist
 # TernJS port file
 .tern-port
 
+# py
+venv*
+.venv*
+
 # macos
 *.DS_Store
 
@@ -115,3 +119,7 @@ public/
 # todo
 todo*
 TODO*
+
+# tmp
+tmp*
+temp*
